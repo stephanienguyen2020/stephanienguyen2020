@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 It's Stephanie
+
+I'm Stephanie, a computer science major at Columbia University.
 
 <!--
 **stephanienguyen2020/stephanienguyen2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
