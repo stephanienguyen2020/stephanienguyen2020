@@ -4,7 +4,7 @@
 
 👋 By day, I'm a CS student at Columbia University. By night, or more like whenever inspiration strikes, I'm a hacker, a problem-solver and a reverse engineering aficionado.
 
-💻  I fell in love with programming during my first year at Columbia. Since then, I've dived deep into full-stack web development, AI/ML, cloud, and blockchain technologies. 
+💻  I wrote my first line of code in summer 2023. Since then, I've dived deep into full-stack web development, AI/ML, cloud, and blockchain technologies. 
 
 ### ⌚ What I'm currently working on:
 
