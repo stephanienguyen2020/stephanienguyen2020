@@ -14,7 +14,7 @@
 
 ### 😁 Fun facts:
 
-🌟 I've won 13 hackathons! Each one has been a unique learning experience.
+🌟 I've won 15 hackathons! Each one has been a unique learning experience.
 
 🤖 When I'm not coding, you can find me at tech meetups or tinkering with the latest AI models.
 
