@@ -34,7 +34,7 @@ Feel free to reach out if you want to collaborate on a project, chat about tech,
 
 ### 🧰 Languages and Tools
 
-### 🖥️ Languages  
+#### 🖥️ Languages  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -51,7 +51,7 @@ Feel free to reach out if you want to collaborate on a project, chat about tech,
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-### 📚 Frameworks & Libraries  
+#### 📚 Frameworks & Libraries  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -64,7 +64,7 @@ Feel free to reach out if you want to collaborate on a project, chat about tech,
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
-### 🛠 Developer Tools  
+#### 🛠 Developer Tools  
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
@@ -74,7 +74,7 @@ Feel free to reach out if you want to collaborate on a project, chat about tech,
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-### ☁️ Cloud & Databases  
+#### ☁️ Cloud & Databases  
 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
@@ -85,7 +85,7 @@ Feel free to reach out if you want to collaborate on a project, chat about tech,
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
-### ⛓️ Blockchain & Smart Contracts  
+#### ⛓️ Blockchain & Smart Contracts  
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFD700?style=for-the-badge&logo=hardhat&logoColor=black)  
@@ -94,5 +94,5 @@ Feel free to reach out if you want to collaborate on a project, chat about tech,
 ![Vyper](https://img.shields.io/badge/Vyper-800080?style=for-the-badge&logo=vyper&logoColor=white)  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 
-### 📦 Storage & IPFS
+#### 📦 Storage & IPFS
 ![Pinata](https://img.shields.io/badge/Pinata-E4405F?style=for-the-badge&logo=pinata&logoColor=white)
