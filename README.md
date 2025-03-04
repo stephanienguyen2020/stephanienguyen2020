@@ -8,7 +8,7 @@
 
 ### ⌚ What I'm currently working on:
 
-💡 Exploring Network Security, Generative AI and Computer Vision through self-study
+💡 Exploring Network Security, agentic AI and Computer Vision through self-study
 
 💡 Automating processes and tackling complex, ambiguous problems in my projects
 
