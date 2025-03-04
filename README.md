@@ -14,7 +14,7 @@
 
 ### 😁 Fun facts:
 
-🌟 I've won 15 hackathons! Each one has been a unique learning experience.
+🌟 I've won 17 hackathons (including coding competitions, PM/design challenges, and pitching contests)! Each one has been a unique learning experience.
 
 🤖 When I'm not coding, you can find me at tech meetups or tinkering with the latest AI models.
 
@@ -22,6 +22,7 @@
 
 ### 🏆 Some Achievements:
 - Second Place at Databricks GenAI World Cup
+- First Place at Amazon x CodePath Design for Accessibility Challenge
 - First Place at Google Developer Group NYC's Build with AI 2024 Hackathon
 - Runner Up at Regeneron's Health Tech Innovators
 - Best Use of Unstructured.io at the MongoDB GenAI Hackathon
